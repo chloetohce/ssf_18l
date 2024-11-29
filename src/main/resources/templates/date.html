@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Display Date</h1>
+    <p>
+        Original format: 
+        <span th:text="${date}"></span> <br>
+        Format using '${#dates.format(__variable__, '__format__')}': 
+        <span th:text="${#dates.format(date, 'dd MMM yyyy')}"></span> <br>
+    </p>
+</body>
+</html>

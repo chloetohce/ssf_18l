@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>sg.edu.nus.iss</groupId>
-	<artifactId>ssf_17l</artifactId>
+	<artifactId>ssf_18l</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ssf_17l</name>
+	<name>ssf_18l</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

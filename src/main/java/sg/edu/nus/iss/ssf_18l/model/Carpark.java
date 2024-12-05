@@ -1,4 +1,4 @@
-package sg.edu.nus.iss.ssf_17l.model;
+package sg.edu.nus.iss.ssf_18l.model;
 
 public class Carpark {
     private int id;

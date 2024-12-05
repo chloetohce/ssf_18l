@@ -1,4 +1,4 @@
-package sg.edu.nus.iss.ssf_17l.restapi.controller;
+package sg.edu.nus.iss.ssf_18l.restapi.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import jakarta.json.JsonArray;
 import jakarta.json.JsonObject;
-import sg.edu.nus.iss.ssf_17l.model.Carpark;
-import sg.edu.nus.iss.ssf_17l.restapi.service.CarparkAPIService;
+import sg.edu.nus.iss.ssf_18l.model.Carpark;
+import sg.edu.nus.iss.ssf_18l.restapi.service.CarparkAPIService;
 
 @RestController
 @RequestMapping("/api/carparks")

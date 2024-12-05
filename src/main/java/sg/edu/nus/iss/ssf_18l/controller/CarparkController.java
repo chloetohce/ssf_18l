@@ -1,4 +1,4 @@
-package sg.edu.nus.iss.ssf_17l.controller;
+package sg.edu.nus.iss.ssf_18l.controller;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import sg.edu.nus.iss.ssf_17l.model.Carpark;
-import sg.edu.nus.iss.ssf_17l.restapi.controller.CarparkAPIController;
+import sg.edu.nus.iss.ssf_18l.model.Carpark;
+import sg.edu.nus.iss.ssf_18l.restapi.controller.CarparkAPIController;
 
 
 @Controller

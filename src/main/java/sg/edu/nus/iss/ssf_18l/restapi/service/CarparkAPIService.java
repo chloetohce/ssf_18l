@@ -1,4 +1,4 @@
-package sg.edu.nus.iss.ssf_17l.restapi.service;
+package sg.edu.nus.iss.ssf_18l.restapi.service;
 
 import java.io.StringReader;
 
@@ -10,7 +10,7 @@ import jakarta.json.Json;
 import jakarta.json.JsonArray;
 import jakarta.json.JsonObject;
 import jakarta.json.JsonReader;
-import sg.edu.nus.iss.ssf_17l.utilities.Url;
+import sg.edu.nus.iss.ssf_18l.utilities.Url;
 
 @Service
 public class CarparkAPIService {
